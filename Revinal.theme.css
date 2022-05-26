@@ -10,11 +10,3 @@
 @import url("https://github.com/Emerald-cmd/Revinal-Better-Discord-Theme/blob/main/revinal.css");
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
-:root {
---mainColor: #4cccea;
---backgroundColor01: #2c2f33;
---backgroundColor02: #23272a;
---gradientColor01: #4CCCEAFF;
---gradientColor02: #0e66ad;
---customFont: 'PT Sans';
-}
