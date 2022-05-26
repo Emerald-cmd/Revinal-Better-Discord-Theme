@@ -4,10 +4,10 @@
 * @description Theme based on the Revinal Discord Bot
 * @author Spectra
 * @invite PZdnCVD
-* @Source https://github.com/codedotspectra/themes
-* @website https://betterdiscord.app/theme/Nocturnal
+* @Source https://github.com/Emerald-cmd/Revinal-Better-Discord-Theme
+* @website https://revinal.xyz/
 */
-@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url("https://github.com/Emerald-cmd/Revinal-Better-Discord-Theme/blob/main/revinal.css");
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 :root {
